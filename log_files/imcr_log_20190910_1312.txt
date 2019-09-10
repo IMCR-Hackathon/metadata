@@ -1,0 +1,725 @@
+2019-09-10 13:03:07 ==============================================
+Synchronizing software category keywords for 'polite'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'preprosim'.
+Terms added: integration
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'validada'.
+Terms added: quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'rdflib'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'datacleaner'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'matconv'.
+Terms added: 
+Terms removed: 
+
+No software category keywords of 'OpenRefine'. Skipping this one.
+
+Synchronizing software category keywords for 'dataMaid'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'driftR'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'missingno'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'easyNCDF'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'beautifulsoup4'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'antiword'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'scrapy'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'zbank'.
+Terms added: 
+Terms removed: cleaning
+
+No software category keywords of 'test software'. Skipping this one.
+
+Synchronizing software category keywords for 'geometa'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'wql'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'robotstxt'.
+Terms added: 
+Terms removed: 
+
+No software category keywords of 'Solr-JavaScript-Search-Client'. Skipping this one.
+
+Synchronizing software category keywords for 'matlabr'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'tokenizers'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'SnakeCharmR'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'qaqcr'.
+Terms added: assurance
+Terms removed: 
+
+Synchronizing software category keywords for 'Alfred-Workflow'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'ndjson'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'CodeMeta'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'rPython'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'cyphr'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'workflow'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'metajam'.
+Terms added: integration
+Terms removed: 
+
+Synchronizing software category keywords for 'beautifier'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'taxadb'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'readbulk'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'R.matlab'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'dirdf'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'biogeo'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'provClean'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'provDebugR'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'tidync'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'rtdLite'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'unrtf'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'provViz'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'arrow'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'sofa'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'dataQualityR'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'marshmallow'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'ecocomDP'.
+Terms added: assurance, quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'charlatan'.
+Terms added: security
+Terms removed: 
+
+Synchronizing software category keywords for 'PythonInR'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'projectscheduler'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'XRSCC'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'divagis'.
+Terms added: assurance
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'Dora'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'worrms'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'fdq'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'kedro'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'handlr'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'rtika'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'luigi'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'EDIutils'.
+Terms added: quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'ingestr'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'recordr'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'Orange'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'qpdf'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'ckanr'.
+Terms added: preservation
+Terms removed: 
+
+Synchronizing software category keywords for 'qicharts'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'rmatio'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'fuzzywuzzy'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'tidyxl'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'taxizeview'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'validate'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'ruler'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'matlab'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'reticulate'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'openxlsx'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'RcppCNPy'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'metapype-cli'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'validr'.
+Terms added: quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'taxize'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'ftfy'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'multifwf'.
+Terms added: 
+Terms removed: import
+
+No software category keywords of 'PASTA-JavaScript-Search-Client'. Skipping this one.
+
+Synchronizing software category keywords for 'taxizesoap'.
+Terms added: assurance
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'pipecat'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'rB3'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'kepler'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'scrubadub'.
+Terms added: security
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'taxizedb'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'scrubr'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'wikitaxa'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'maya'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'tuleap'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'GCE Data Toolbox for Matlab'.
+Terms added: describing
+Terms removed: cleaning, import
+
+Synchronizing software category keywords for 'tesseract'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'textacy'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'pydqc'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'taiga'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'codemetar'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'writexl'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'emld'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'validatetools'.
+Terms added: quality control
+Terms removed: automated quality control
+
+No software category keywords of 'ssh'. Skipping this one.
+
+Synchronizing software category keywords for 'Esri2Eml'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'shapefiles'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'SWMPr'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'drunken-data-quality'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'EMLassemblyline'.
+Terms added: describing
+Terms removed: 
+
+Synchronizing software category keywords for 'skimr'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'xlsx'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'foreign'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'readxl'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'datatest'.
+Terms added: quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'arrow (R)'.
+Terms added: integration
+Terms removed: import
+
+Synchronizing software category keywords for 'Badfish'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'voluptuous'.
+Terms added: quality control
+Terms removed: 
+
+No software category keywords of 'Zotero-JavaScript-Search-Client'. Skipping this one.
+
+Synchronizing software category keywords for 'ontologyIndex'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'calibrate'.
+Terms added: assurance, quality assurance
+Terms removed: 
+
+Synchronizing software category keywords for 'exiftoolr'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'selenium'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'FlowCal'.
+Terms added: assurance, quality assurance
+Terms removed: 
+
+Synchronizing software category keywords for 'LTER-core-metabase'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'taxonomyCleanr'.
+Terms added: assurance
+Terms removed: 
+
+Synchronizing software category keywords for 'spelling'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'local_pasta_catalog'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'bigmemory'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'rdataone'.
+Terms added: collection
+Terms removed: 
+
+Synchronizing software category keywords for 'TITAN'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'textreadr'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'rdt'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'parserator'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'redoc'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'errorlocate'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'pint'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'geonames'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'arkdb'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'RefManageR'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'bigreadr'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'jqr'.
+Terms added: 
+Terms removed: 
+
+No software category keywords of 'Lunr-Index-and-Search-for-Static-Sites'. Skipping this one.
+
+Synchronizing software category keywords for 'ritis'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'Rpolyhedra'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'textreuse'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'virtuoso'.
+Terms added: 
+Terms removed: storage
+
+Synchronizing software category keywords for 'metadata-eml'.
+Terms added: preservation
+Terms removed: 
+
+Synchronizing software category keywords for 'ggQC'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'drake'.
+Terms added: 
+Terms removed: workflow management
+
+Synchronizing software category keywords for 'qat'.
+Terms added: quality control
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'csvdedupe'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'engarde'.
+Terms added: quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'metapype-eml'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'iso2eml'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'WIDOCO'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'exifr'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'assertr'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'mobydq'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'SASxport'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'cld3'.
+Terms added: assurance, quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'Web-Karma'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'Drupal Ecological Information Management System (DEIMS)'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'readOffice'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'tabulizer'.
+Terms added: collection
+Terms removed: import
+
+Synchronizing software category keywords for 'seo'.
+Terms added: preservation
+Terms removed: 
+
+Synchronizing software category keywords for 'preproviz'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'jsonlite'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'pdftools'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'taxa'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'provSummarizeR'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'nltk'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'xslt'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'testing2'.
+Terms added: security
+Terms removed: 
+
+Synchronizing software category keywords for 'EML'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'git2r'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'qcc'.
+Terms added: 
+Terms removed: cleaning
+
+No software category keywords of 'testing'. Skipping this one.
+
+Synchronizing software category keywords for 'StatMeasures'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'exif'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'dedupe'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'rorcid'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'jsonvalidate'.
+Terms added: 
+Terms removed: 
+
+Synchronizing software category keywords for 'readtext'.
+Terms added: 
+Terms removed: import
+
+Synchronizing software category keywords for 'cld2'.
+Terms added: quality control
+Terms removed: 
+
+Synchronizing software category keywords for 'sensorQC'.
+Terms added: 
+Terms removed: cleaning
+
+Synchronizing software category keywords for 'qicharts2'.
+Terms added: 
+Terms removed: cleaning
+
